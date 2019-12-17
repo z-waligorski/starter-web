@@ -1,1 +1,4 @@
 robots.txt
+*.log
+logs_dir/
+log3/

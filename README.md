@@ -9,3 +9,4 @@ Third change
 ## How to contribute
 2019 copyright
 Adding some dummy text
+Some changes when stash is full
